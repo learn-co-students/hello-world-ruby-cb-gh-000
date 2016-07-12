@@ -1,3 +1,5 @@
+# Hello World
+
 ## Overview
 
 We're going to make a file that will print ["Hello World!"](http://en.wikipedia.org/wiki/%22Hello,_World!%22_program) to your terminal.
@@ -16,7 +18,7 @@ Get started by opening this lab with `learn open` or by clicking the Open button
 
 ### Creating a File
 
-First, let's make sure that we are in the lab's directory. If you are using the Learn IDE and used the Open command, you will automatically be in the correct directory. Otherwise, you should use `cd` to navigate into the directory of this lab, named something along the lines of  `hello-world-ruby` (might be `hello-world-ruby-q-000` or `hello-world-ruby-v-000`). You can confirm you are in the correct directory by typing `pwd` in your terminal and you should see a path similar to: `/home/aviflombaum/code/labs/hello-world-ruby-q-000`.
+First, let's make sure that we are in the lab's directory. If you are using the Learn IDE and used the Open command, you will automatically be in the correct directory. Otherwise, you should use `cd` to navigate into the directory of this lab, named something along the lines of `hello-world-ruby` (might be `hello-world-ruby-q-000` or `hello-world-ruby-v-000`). You can confirm you are in the correct directory by typing `pwd` in your terminal and you should see a path similar to: `/home/aviflombaum/code/labs/hello-world-ruby-q-000`.
 
 The next step is to create a text file called `hello_world.rb` within the lab directory. The `.rb` file extension is a common convention for specifying the language of the file - in this case, Ruby. You can create a file by making a new file in your favorite text editor and saving it into this lab's directory. Or you can type `touch hello_world.rb` within your terminal assuming you've navigated into this lab's directory with `cd` (note, however, that you won't see any output in Terminal with `touch`). If you are using the Learn IDE, you can then open this file for editing with `atom hello_world.rb` or navigate to the file in the editor's file browser and double click to open it.
 
@@ -60,6 +62,4 @@ Submit your solution with `learn submit` and this lab is done, but your adventur
 
 _[Hello World! by Brian Kernighan, from Artsy's Algorythm Auction](https://www.artsy.net/artwork/brian-kernighan-hello-world) based on a 1974 Bell Laboratories internal memorandum by Brian Kernighan, Programming in C: A Tutorial, which contains the first known version._
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hello-world-ruby' title='Overview'>Overview</a> on Learn.co and start learning to code for free.</p>
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/hello-world-ruby'>Hello World </a> on Learn.co and start learning to code for free.</p>
+<p class='util--hide'>View <a href='https://learn.co/lessons/hello-world-ruby'>Hello World</a> on Learn.co and start learning to code for free.</p>
