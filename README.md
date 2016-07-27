@@ -58,7 +58,7 @@ Your adventure in Ruby has only just begun.
 
 ### Hello World History
 
-A small piece of coding history: a handwritten version of Hello World in C (an early programming language). 
+A small piece of coding history—a handwritten version of Hello World in C (an early programming language). 
 
 ![Hello World! Art](https://d32dm0rphc51dk.cloudfront.net/b6JQ66-0nHij79irJT-Pdg/large.jpg)
 
