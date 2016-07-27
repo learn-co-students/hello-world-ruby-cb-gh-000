@@ -14,13 +14,11 @@ We're going to make a file that will print ["Hello World!"](http://en.wikipedia.
 
 ## Instructions
 
-Get started by opening this lab with `learn open` or by clicking the Open button in Learn. 
+Get started by clicking the Open button in Learn. 
 
 ### Creating a File
 
-First, let's make sure that we are in the lab's directory. If you are using the Learn IDE and used the Open command, you will automatically be in the correct directory. Otherwise, you should use `cd` to navigate into the directory of this lab, named something along the lines of `hello-world-ruby` (might be `hello-world-ruby-q-000` or `hello-world-ruby-v-000`). You can confirm you are in the correct directory by typing `pwd` in your terminal and you should see a path similar to: `/home/aviflombaum/code/labs/hello-world-ruby-q-000`.
-
-The next step is to create a text file called `hello_world.rb` within the lab directory. The `.rb` file extension is a common convention for specifying the language of the file - in this case, Ruby. You can create a file by making a new file in your favorite text editor and saving it into this lab's directory. Or you can type `touch hello_world.rb` within your terminal assuming you've navigated into this lab's directory with `cd` (note, however, that you won't see any output in Terminal with `touch`). If you are using the Learn IDE, you can then open this file for editing with `atom hello_world.rb` or navigate to the file in the editor's file browser and double click to open it.
+You will need to create a text file called `hello_world.rb` within the lab's directory. The `.rb` file extension is a common convention for specifying the language of the file - in this case, Ruby. To create this, in the Learn IDE's terminal type `touch hello_world.rb`. If that worked as expected, you should now see the file appear in the file browser. You can open this file by double clicking on it in the file browser or by typing `atom hello_world.rb`. You should now see an empty file open in your text editor, ready to be edited. 
 
 ### Writing Code
 
@@ -48,15 +46,19 @@ Hello World!
 
 ### Running Learn
 
-Confirm everything is working by running the `learn` command.
+Confirm everything is working by running the `learn` command. You should see that all tests are passing (e.g. no red error text). 
 
-Note: Case matters, and your test will not pass unless you print "Hello World!" exactly
+Note: When you write code, the case (uppercase/lowercase) of characters matters, and so your test will not pass unless you print "Hello World!" exactly. 
 
 ### Submitting Your Lab
 
-Submit your solution with `learn submit` and this lab is done, but your adventure in Ruby has only just begun!
+Submit your solution by typing `learn submit` into your terminal, then click Next Lesson to move on.
+
+Your adventure in Ruby has only just begun.
 
 ### Hello World History
+
+A small piece of coding history—a handwritten version of Hello World in C (an early programming language). 
 
 ![Hello World! Art](https://d32dm0rphc51dk.cloudfront.net/b6JQ66-0nHij79irJT-Pdg/large.jpg)
 
