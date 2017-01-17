@@ -1,2 +1,0 @@
-# foobar
-puts "Hello World!"
