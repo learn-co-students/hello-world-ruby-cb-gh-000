@@ -1,1 +1,1 @@
-puts "Hello The Fucking World!~!!"
+puts "Hello World!"
