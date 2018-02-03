@@ -18,7 +18,7 @@ Get started by clicking the Open button in Learn.
 
 ### Creating a File
 
-You will need to create a text file called `hello_world.rb` within the lab's directory. The `.rb` file extension is a common convention for specifying the language of the file - in this case, Ruby. To create this, in the Learn IDE's terminal type `touch hello_world.rb`. If that worked as expected, you should now see the file appear in the file browser. You can open this file by double clicking on it in the file browser or by typing `atom hello_world.rb`. You should now see an empty file open in your text editor, ready to be edited. 
+You will need to create a text file called `hello_world.rb` within the lab's directory. The `.rb` file extension is a common convention for specifying the language of the file - in this case, Ruby. To create this, in the Learn IDE's terminal type `touch hello_world.rb` or use the "Create New" or "New File" option in the Editor. If that worked as expected, you should now see the file appear in the file browser. You can open this file by double clicking on it in the file browser. You should now see an empty file open in your text editor, ready to be edited. 
 
 ### Writing Code
 
