@@ -52,7 +52,7 @@ Note: When you write code, the case (uppercase/lowercase) of characters matters,
 
 ### Submitting Your Lab
 
-Submit your solution by typing `learn submit` into your terminal, then click Next Lesson to move on.
+Submit your solution by typing `learn submit` into your terminal, thens click Next Lesson to move on.
 
 Your adventure in Ruby has only just begun!
 
